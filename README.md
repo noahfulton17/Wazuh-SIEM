@@ -43,7 +43,7 @@ application errors and logon activity.
 
 ---
 
-### Alert Validation (Log-Level)
+### Alert Validation
 Alert data was validated directly from the Wazuh alerts.json file using command-
 line tools to confirm rule ID, description, and source agent.
 
